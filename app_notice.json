@@ -1,0 +1,10 @@
+{
+  "notice_id": 1,
+  "title": "闪电记账 v1.1.0 发布",
+  "content": "1. 纯净流淌模式上线，告别余额焦虑\n2. 收入分类物理拆分，动态活钱池驱动\n3. 双端配置毫秒级对齐与开机向导卡片化\n4. 支持应用内更新通知与一键下载",
+  "publish_date": "2026-08-29",
+  "latest_version_code": 2,
+  "latest_version_name": "1.1.0",
+  "download_url": "https://github.com/LilyCarry/WristLedger_Release/releases/latest",
+  "force_update": false
+}
