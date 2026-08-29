@@ -1,10 +1,17 @@
 {
   "notice_id": 1,
+  "noticeId": 1,
   "title": "闪电记账 v2.0.0 发布",
-  "content": "1. 纯净流淌模式上线，/n1 2. 支持应用内更新通知与一键下载",
+  "content": "1. 纯净流淌模式上线，告别余额财务焦虑\n2. 支持应用内更新通知与一键下载",
+  "type": "UPDATE",
   "publish_date": "2026-08-29",
+  "publishTime": "2026-08-29",
   "latest_version_code": 2,
+  "latestVersionCode": 2,
   "latest_version_name": "2.0.0",
+  "latestVersionName": "2.0.0",
   "download_url": "https://github.com/LilyCarry/WristLedger_Release/releases/download/v2.0.0/app-debug.apk",
-  "force_update": false
+  "downloadUrl": "https://github.com/LilyCarry/WristLedger_Release/releases/download/v2.0.0/app-debug.apk",
+  "force_update": false,
+  "forcePopup": false
 }
