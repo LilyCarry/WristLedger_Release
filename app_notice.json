@@ -1,17 +1,13 @@
 {
-  "notice_id": 2,
   "noticeId": 2,
   "title": "闪电记账 v2.0.1 发布",
   "content": "1. 彻底修复手环/手表端修改本月剩余平账失真问题\n2. 修复月初时间戳跨月漂移与大盘走势防污染\n3. 优化零预算活钱预测与跨端配置同步",
   "type": "UPDATE",
-  "publish_date": "2026-08-30",
-  "publishTime": "2026-08-30",
-  "latest_version_code": 3,
+  "minVersionCode": 1,
   "latestVersionCode": 3,
-  "latest_version_name": "2.0.1",
   "latestVersionName": "2.0.1",
-  "download_url": "https://github.com/LilyCarry/WristLedger_Release/releases/download/v2.0.1/app-debug.apk",
   "downloadUrl": "https://github.com/LilyCarry/WristLedger_Release/releases/download/v2.0.1/app-debug.apk",
-  "force_update": false,
-  "forcePopup": false
+  "rpkDownloadUrl": "https://github.com/LilyCarry/WristLedger_Release/releases/download/v2.0.1/com.application.watch.wristledger.release.2.0.1.rpk",
+  "forcePopup": false,
+  "publishTime": "2026-08-30"
 }
